@@ -2,7 +2,7 @@
 
 ### Coordinating hardware and software, end to end.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YJxyzxyz" alt="YJxyzxyz" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-winning.vercel.app/?username=YJxyzxyz" alt="YJxyzxyz" /></a> </p>
 
 - 🔭 I'm currently working on **Efficient VLA & WAM**
 
