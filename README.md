@@ -24,7 +24,7 @@
 
 <p><img align="left" src="https://github-readme-stats-three-xi-45.vercel.app/api/top-langs?username=YJxyzxyz&show_icons=true&locale=en&layout=compact" alt="YJxyzxyz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-three-xi-45.vercel.app/api?username=YJxyzxyz&show_icons=true&locale=en" alt="YJxyzxyz" /></p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
