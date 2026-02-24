@@ -26,3 +26,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-three-xi-45.vercel.app/api?username=YJxyzxyz&show_icons=true&locale=en" alt="YJxyzxyz" /></p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/YJxyzxyz/YJxyzxyz/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/YJxyzxyz/YJxyzxyz/output/github-snake.svg" />
+  <img alt="github contribution snake"
+       src="https://raw.githubusercontent.com/YJxyzxyz/YJxyzxyz/output/github-snake.svg" />
+</picture>
