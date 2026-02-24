@@ -2,8 +2,6 @@
 
 ### Coordinating hardware and software, end to end.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-tawny.vercel.app/?username=YJxyzxyz" alt="YJxyzxyz" /></a> </p>
-
 - 🔭 I'm currently working on **Efficient VLA & WAM**
 
 - 📫 How to reach me **yjxyz2003@gmail.com**
