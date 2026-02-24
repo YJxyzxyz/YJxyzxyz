@@ -1,7 +1,7 @@
 # Hi 👋, I'm Shaw
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3200&pause=1500&center=true&vCenter=true&width=900&lines=Coordinating+hardware+and+software,+end+to+end.;🔭+I'm+currently+working+on+Efficient+VLA+%26+WAM" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3200&pause=1500&center=true&vCenter=true&width=900&lines=Coordinating+hardware+and+software,+end+to+end.;I'm+currently+working+on+Efficient+VLA+%26+WAM" alt="Typing SVG" />
 </p>
 
 - 📫 How to reach me **yjxyz2003@gmail.com**
