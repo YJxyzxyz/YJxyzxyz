@@ -7,7 +7,7 @@
 - 📫 How to reach me **yjxyz2003@gmail.com**
 
 - ⚡ Fun fact **你怎么知道自己爱上了一台机器人？
-  因为你感觉到了一点“Spark”❤️**
+  因为你感觉到了一点“Spark”❤️！**
 
 - 👨‍💻 All of my projects are available at **[http://yjxyzxyz.cn](http://yjxyzxyz.cn)**
 
